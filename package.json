@@ -2,6 +2,7 @@
   "name": "rxjs-flexmap",
   "version": "1.0.0",
   "description": "A more flexible map-like operator for RxJS",
+  "homepage": "https://github.com/bjorkegeek/rxjs-flexmap",
   "main": "lib/flexmap.js",
   "types": "lib/flexmap.d.ts",
   "scripts": {
